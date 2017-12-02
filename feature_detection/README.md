@@ -7,6 +7,7 @@ Compile as:
 g++ features.cpp -o features `pkg-config --cflags --libs opencv`
 
 
+
 Execute as:
 
 ./features gala.jpg mandelbrot.jpg
