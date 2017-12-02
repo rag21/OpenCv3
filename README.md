@@ -1,6 +1,6 @@
-Forked from https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh
- and modified by Hector R Arce Gonzalez
- 
+Script for openCV 3 installation forked from https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh
+ and modified by Hector R Arce Gonzalez in order to install contrib headers (xfeatures2d for example).
+
 
 Dependencies added:
 * python-vtk
