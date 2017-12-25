@@ -6,7 +6,7 @@ Script for openCV 3 installation forked from https://github.com/milq/milq/blob/m
 After download add execution permission:
 sudo chmod +x
 
-Then execute WITHOUT sudo permissions as:
+Then execute WITHOUT sudo permissions as: </br>
 ./install_opencv.sh
 The script will ask for user password manually, this is due matlab opencv_contrib files not able to compile in sudo mode.
 
