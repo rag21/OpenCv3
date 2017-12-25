@@ -1,8 +1,8 @@
-##GENERAL INFO
+## GENERAL INFO
 Script for openCV 3 installation forked from https://github.com/milq/milq/blob/master/scripts/bash/install-opencv.sh
  and modified by Hector R Arce Gonzalez in order to install contrib headers (xfeatures2d for example).
 
-##INSTRUCTIONS
+## INSTRUCTIONS
 After download add execution permission:
 sudo chmod +x
 
@@ -16,7 +16,7 @@ pkg-config --cflags opencv
 pkg-config --modversion opencv
 The output of the last one must show "3.2.0"
 
-###CHANGELOG
+## CHANGELOG
 Dependencies added:
 * python-vtk
 
