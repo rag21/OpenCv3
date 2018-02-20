@@ -6,15 +6,12 @@
 # |----------------------------------------------------|
 # | OS             | OpenCV       | Test | Last test   |
 # |----------------|--------------|------|-------------|
-# | Ubuntu 16.04.2 | OpenCV 3.2.0 | OK   | 23 Dic 2017 |
+# | Ubuntu 16.04.2 | OpenCV 3.2.0 | OK   |  9 Feb 2018 |
 
 # 1. KEEP UBUNTU OR DEBIAN UP TO DATE
 
 sudo apt-get -y update
-sudo apt-get -y upgrade
 sudo apt-get -y dist-upgrade
-sudo apt-get -y autoremove
-
 
 # 2. INSTALL THE DEPENDENCIES
 
